@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shiben Roy</h1>
 <h3 align="center">A passionate Game Developer And 3D Modeller from India</h3>
-![](https://visitcount.itsvg.in/api?id=shibenroy&icon=9&color=1)](https://visitcount.itsvg.in)
+
 
 
 - 🌱 I’m currently learning **Animation, Unreal Engine**
@@ -21,3 +21,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=shibenroy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shibenroy&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shibenroy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![](https://visitcount.itsvg.in/api?id=shibenroy&icon=9&color=1)](https://visitcount.itsvg.in)
+
+
+
