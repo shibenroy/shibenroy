@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shiben Roy</h1>
 <h3 align="center">A passionate Game Developer And 3D Modeller from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shibenroy&label=Profile%20views&color=0e75b6&style=flat" alt="shibenroy" /> </p>
+[![](https://visitcount.itsvg.in/api?id=shibenroy&icon=9&color=1)](https://visitcount.itsvg.in)
 
 - 🌱 I’m currently learning **Animation, Unreal Engine**
 
