@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shiben Roy</h1>
 <h3 align="center">A passionate Game Developer And 3D Modeller from India</h3>
-[![](https://visitcount.itsvg.in/api?id=shibenroy&icon=9&color=1)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=shibenroy&icon=9&color=1)](https://visitcount.itsvg.in)
+
 
 - 🌱 I’m currently learning **Animation, Unreal Engine**
 
