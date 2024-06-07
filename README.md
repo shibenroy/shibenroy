@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shibenroy&label=Profile%20views&color=0e75b6&style=flat" alt="shibenroy" /> </p>
 
 - 🌱 I’m currently learning **Animation, Unreal Engine**
-https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif
+
 - 👨‍💻 All of my projects are available at [astericc.wix.com](astericc.wix.com)
 
 - 📫 How to reach me **shibenroy145@gmail.com**
