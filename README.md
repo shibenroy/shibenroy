@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **shibenroy145@gmail.com**
 
+- ✅ Launguages I Know - Python, Lua, C#
+
 - ⚡ Fun fact **I'm Stupid**
 
 <h3 align="left">Connect with me:</h3>
