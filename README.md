@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shiben Roy</h1>
+<h1 align="center">Hi 👋, I'm Astericc</h1>
 <h3 align="center">A passionate Game Developer And 3D Modeller from India</h3>
 
 
